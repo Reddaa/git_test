@@ -1,3 +1,3 @@
 <?php
-	this sentence is rong
+	this sentence is wrong
 ?
